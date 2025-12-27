@@ -520,3 +520,27 @@ footer {
     font-size: 0.82rem;
   }
 }
+
+/* ============ 页脚备案信息 ============ */
+.footer-copyright {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin-top: 1rem;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  text-align: center;
+}
+
+.footer-copyright .icp-record {
+  margin: 0;
+  font-size: inherit;
+  color: inherit;
+  opacity: 0.85;
+  transition: opacity 0.2s;
+}
+
+.footer-copyright .icp-record:hover {
+  opacity: 1;
+}
