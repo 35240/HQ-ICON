@@ -492,28 +492,11 @@ class App extends Component {
                     ))}
                 </main>
                 <footer>
-                    <div className="center">
-                        <div className="footer-content">
-                            <div className="copyright">
-                                Copyright © 2025 - <a href='https://github.com/YuKongA'>YuKongA</a>
-                            </div>
-                        </div>
                        <center>
   <div class="footer-copyright">
     <p class="icp-record">浙ICP备2024115105号-6</p>
   </div>
 </center>
-                    <div>
-                            <a
-                                href="https://github.com/YuKongA/HQ-ICON"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="github-link"
-                            >
-                                GitHub
-                            </a>
-                        </div>
-                    </div>
                 </footer>
             </div>
         );
