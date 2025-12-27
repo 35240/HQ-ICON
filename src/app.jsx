@@ -6,7 +6,7 @@ import './app.css';
 
 const TRANSLATIONS = {
     zh: {
-        title: 'HQ ICON',
+        title: 'APP ICON',
         description: '从 App Store 获取高清应用图标',
         searchPlaceholder: '搜索应用...',
         filterToggle: '筛选条件',
@@ -24,7 +24,7 @@ const TRANSLATIONS = {
         themeSystem: '系统'
     },
     en: {
-        title: 'HQ ICON',
+        title: 'APP ICON',
         description: 'High-quality App Store icon downloader',
         searchPlaceholder: 'Search for apps...',
         filterToggle: 'Filter Options',
@@ -495,7 +495,7 @@ class App extends Component {
                     <div className="center">
                         <div className="footer-content">
                             <div className="copyright">
-                                Copyright © 2024 - <a href='https://github.com/YuKongA'>YuKongA</a>
+                                Copyright © 2025 - <a href='https://github.com/YuKongA'>YuKongA</a>
                             </div>
                             <a
                                 href="https://github.com/YuKongA/HQ-ICON"
