@@ -498,6 +498,12 @@ class App extends Component {
                                 Copyright © 2025 - <a href='https://github.com/YuKongA'>YuKongA</a>
                             </div>
                         </div>
+                       <center></center>
+  <div class="footer-copyright">
+    <p class="icp-record">浙ICP备2024115105号-6</p>
+  </div>
+</center>
+                    <div>
                             <a
                                 href="https://github.com/YuKongA/HQ-ICON"
                                 target="_blank"
