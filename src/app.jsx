@@ -497,6 +497,7 @@ class App extends Component {
                             <div className="copyright">
                                 Copyright © 2025 - <a href='https://github.com/YuKongA'>YuKongA</a>
                             </div>
+                            <centor> <p>  浙ICP备2024115105号-6 </p></centor>
                             <a
                                 href="https://github.com/YuKongA/HQ-ICON"
                                 target="_blank"
